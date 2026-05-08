@@ -13,6 +13,7 @@ Each subfolder is a self-contained pipeline for one source site. They share the 
 
 - `curspe/` — [curspe.com](https://curspe.com)
 - `zetro/` — [zetrotranslation.com](https://zetrotranslation.com) (and similar wp-manga themed sites)
+- `lightnovelstranslations` — [lightnovelstranslations.com](https://lightnovelstranslations.com)
 
 More will be added as I run into other sites — this isn't limited to these two.
 
